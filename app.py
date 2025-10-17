@@ -7,6 +7,7 @@ import sqlite3
 from datetime import datetime
 
 # Load environment variables
+#vishnu KI demo choopistunna 
 load_dotenv()
 
 # Configure page
@@ -40,7 +41,7 @@ init_db()
 
 # Constants
 STEP_LABELS = {
-    "greeting": "👋 Welcome",
+    "greeting": "👋 Welcome to dash board",
     "form": "📝 Candidate Information",
     "tech_stack": "🛠️ Technical Skills",
     "questions": "❓ Technical Assessment",
